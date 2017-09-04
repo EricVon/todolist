@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"na",
+				"navbar\tnavbar"
+			],
+			[
+				"data",
+				"data-toggle=〔attribute〕"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"td",
+				"td\ttext-decoration: ${1:none};"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"brac",
+				"background-color"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"s",
+				"select\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 324,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 530.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: button"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 764.0
+	},
+	"console":
+	{
+		"height": 480.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/web developer/Webdelboot/Todo App",
+		"/D/web developer/Webdelboot/Todo App/assets",
+		"/D/web developer/Webdelboot/Todo App/assets/js"
+	],
+	"file_history":
+	[
+		"/D/web developer/Webdelboot/Todo App/index.html",
+		"/D/web developer/Webdelboot/Todo App/assets/js/todos.js",
+		"/D/web developer/Webdelboot/Todo App/assets/js/lib/jquery-3.2.1.min.js",
+		"/D/web developer/Webdelboot/Todo App/assets/css/todos.css",
+		"/D/web developer/Webdelboot/joe/imagegallery.html",
+		"/D/web developer/Webdelboot/joe/gallery.css",
+		"/D/web developer/Webdelboot/joe/css/gallery.css",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/D/web developer/Webdelboot/joe/imagegallery.sublime-project",
+		"/D/web developer/web developer bootcamp/second-assignment/second assment.html",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/web developer/html and css book/Webdelboot/bootstrap/bootstrapnavbar.html",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Preferences.sublime-settings",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/web developer/html and css book/Webdelboot/imagegallery.html",
+		"/D/web developer/html and css book/Webdelboot/Grid system/gridsystems.html",
+		"/D/web developer/html and css book/index.html",
+		"/D/web developer/index.html",
+		"/D/web developer/html and css book/Webdelboot/Blogexercise/Bloge.html",
+		"/D/web developer/html and css book/Webdelboot/Blogexercise/style.css",
+		"/D/web developer/html and css book/Webdelboot/joe/ThroughHeavenseyes.html",
+		"/D/web developer/html and css book/Webdelboot/joe/atus.jpg",
+		"/D/web developer/html and css book/Webdelboot/New folder/photoblog.html",
+		"/D/web developer/html and css book/Webdelboot/New folder/photo.css",
+		"/D/web developer/html and css book/Webdelboot/New folder/style.css",
+		"/D/web developer/html and css book/Webdelboot/New folder/tick.html",
+		"/D/web developer/html and css book/Webdelboot/box model/box modeling.html",
+		"/D/web developer/html and css book/Webdelboot/box model/ox.css",
+		"/D/web developer/html and css book/Webdelboot/todolist/todolist.html",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/web developer/html and css book/Webdelboot/secectors-exercise/selector-exe/selectorsExercise.html",
+		"/D/web developer/html and css book/Webdelboot/secectors-exercise/selector-exe/selectors.css",
+		"/D/web developer/html and css book/Webdelboot/todolist/todo.css",
+		"/D/web developer/html and css book/Webdelboot/css-first-style-sheet/app.css",
+		"/D/web developer/html and css book/Webdelboot/css-first-style-sheet/about-me",
+		"/D/web developer/html and css book/Webdelboot/fourth fourms/index.html",
+		"/D/web developer/html and css book/HTML-css-jonduckett/first-test.html",
+		"/D/web developer/web developer bootcamp/Eric-V-Stephan/first assiment.html",
+		"/D/web developer/web developer bootcamp/second-assment/second assment.html",
+		"/D/web developer/web developer bootcamp/third-assment/Pokamon/Pokemondata.html",
+		"/C/Users/Eric/Documents/Things ive learned",
+		"/C/Users/Eric/Documents/firstpage.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-lg-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 23,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hsl",
+									"rgb",
+									"hex_compressed",
+									"hex",
+									"rgba",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1504500726.83,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todo.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
